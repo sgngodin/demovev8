@@ -13,6 +13,9 @@ def troisieme_fonction ():
     premiere_fonction ()
     deuxieme_fonction ()
 
+def cinquieme ():
+    print ("cinquieme")
+    
 print ("bonjour")
 troisieme_fonction ()
 quatrieme ()
