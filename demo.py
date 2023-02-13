@@ -5,6 +5,10 @@ def premiere_fonction():
 def deuxieme_fonction ():
     print ("deuxieme fonction")
 
+def troisieme_fonction ():
+    premiere_fonction ()
+    deuxieme_fonction ()
+
 print ("bonjour")
-premiere_fonction()
-deuxieme_fonction()
+troisieme_fonction ()
+
