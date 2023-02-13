@@ -1,6 +1,6 @@
 
 def premiere_fonction():
-    print ("premier fonction")
+    print ("premiere fonction de correction de modif")
 
 def deuxieme_fonction ():
     print ("deuxieme fonction")
