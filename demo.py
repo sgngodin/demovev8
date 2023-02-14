@@ -1,7 +1,7 @@
 
 
 def unefonctiondeplus ():
-    print ("une fonction en plus dans le programme")
+    print ("une fonction en plus dans le programme modifier cote github")
 
 def premiere_fonction():
     print ("premiere fonction de correction de modif")
