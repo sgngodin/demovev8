@@ -12,6 +12,7 @@ def deuxieme_fonction ():
 
 def quatrieme ():
     print ("quatrieme")
+    print ("cote github")
 
 def unefonctionenplus ():
     print ("super fonction")
