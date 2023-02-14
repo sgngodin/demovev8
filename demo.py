@@ -1,4 +1,7 @@
 
+def unefonctionenplus ():
+    print ("super fonction")
+
 def premiere_fonction():
     print ("premiere fonction de correction de modif")
 
@@ -19,5 +22,6 @@ def cinquieme ():
 print ("bonjour")
 troisieme_fonction ()
 quatrieme ()
+unefonctionenplus ()
 
 
