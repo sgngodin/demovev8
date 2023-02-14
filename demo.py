@@ -5,7 +5,7 @@ def unefonctiondeplus ():
 
 def premiere_fonction():
     print ("premiere fonction de correction de modif")
-
+    print ("premiere fonction de correction de modif 2")
 
 def deuxieme_fonction ():
     print ("deuxieme fonction")
